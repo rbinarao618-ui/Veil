@@ -1,0 +1,6 @@
+{
+  "name": "ShaderVeil",
+  "description": "System-wide OpenGL ES shader overlay studio with real-time GLSL editing and custom uniform controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

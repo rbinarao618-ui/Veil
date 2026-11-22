@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ShaderVeil</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_engine">Engine</string>
+    <string name="overlay_channel_name">Shader Overlay Service</string>
+    <string name="overlay_channel_description">Controls the active system-wide OpenGL ES shader overlay</string>
+    <string name="overlay_notification_title">ShaderVeil Overlay Active</string>
+    <string name="overlay_notification_paused">ShaderVeil Overlay Paused</string>
+    <string name="overlay_action_pause">Pause</string>
+    <string name="overlay_action_resume">Resume</string>
+    <string name="overlay_action_stop">Stop</string>
+    <string name="overlay_action_refresh">Refresh Screen</string>
+    <string name="launch_overlay">Start Overlay</string>
+    <string name="stop_overlay">Stop Overlay</string>
+    <string name="permission_overlay_required">Overlay Permission Needed</string>
+    <string name="grant_permission">Grant</string>
+    <string name="capture_channel_name">Screen Texture Capture</string>
+    <string name="capture_channel_description">Streams live display frames into GLSL sampler2D uniforms</string>
+    <string name="capture_notification_title">Live Screen Texture Active</string>
+    <string name="capture_notification_text">Streaming display pixels to ShaderVeil sampler2D</string>
+    <string name="capture_action_stop">Stop Capture</string>
+</resources>
